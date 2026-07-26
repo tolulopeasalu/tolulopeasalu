@@ -2,25 +2,47 @@
 
 
 
-- Hi there 👋, I'm Tolulope Asalu — a Mobile Engineer who builds production-grade Android and React Native applications, with a focus on mobility, real-time systems, and location-aware experiences.
-- I've built and shipped production mobile applications across fintech, transportation, and consumer technology, delivering features such as real-time trip tracking, rider and driver workflows, background location services, push notifications, payment integrations, and offline-first experiences.
+- Hi there 👋, I'm Tolulope Asalu —
+-  I'm a Mobile Engineer with over three years of professional experience building production mobile applications using Kotlin, Jetpack Compose, React Native, TypeScript, and Expo.
+-  I've built applications across the mobility and fintech industries, delivering features including:
+ - 🚕 Ride-hailing workflows for riders and drivers
+ - 📍 Real-time location tracking and live trip updates
+ -  💳 Secure wallet funding and payment integrations
+ - 🔔 Push notifications and background services
+ - 🔐 Authentication and REST API integrations
+ - 📡 Real-time communication using Supabase Realtime
+ - 📱 Modern Android development with Jetpack Compose & Material 3.
+
 - Currently, I am deepening my expertise in Modern Android Development
   
-- ### 🛠️ What I'm working on:
+- ### 🚀 Currently Working On:
 *   **OyaRiyder & OyaDriver**:
-*   Building a modern ride-hailing platform using:
+*   Building production ride-hailing applications using:
+*   Kotlin
 *   Jetpack Compose
 *   Material 3
-*   Kotlin Coroutines & Flow
-*   Supabase Realtime
-*   Maps & live driver tracking
+*   Coroutines & Flow
 *   MVVM
+*   Supabase
+*   Google Maps
+*   Mapbox
+*   Background location services
    
-### 🚀 Technical Expertise:
-*   **Mobile**: Modern Android (Kotlin, Jetpack Compose, Material 3) & React Native (Expo).
+### 🚀 Technical Stack:
+*   **Mobile**:
+*   Kotlin
+*   Jetpack Compose
+*   Material
+*   Typescript
+*   React Native (Expo).
+*   SwiftUI (learning)
 *   **Backend & Integration**: Supabase, Firebase, and REST/GraphQL APIs.
-  
-- I'm always interested in discussing Android, mobility, real-time systems, and building reliable mobile products. Feel free to reach out if you'd like to collaborate or chat about mobile engineering. 
-- 📫You can reach me through my email: [johnasalu13@gmail.com](johnasalu13@gmail.com)
+
+###  🌱 Currently Learning
+* Native iOS Development with Swift & SwiftUI
+
+### 🤝 Let's Connect  
+* I'm always interested in discussing Android, mobility, real-time systems, and building reliable mobile products. Feel free to reach out if you'd like to collaborate or chat about mobile engineering.
+*  📫You can reach me through my email: [johnasalu13@gmail.com](johnasalu13@gmail.com)
 
 
