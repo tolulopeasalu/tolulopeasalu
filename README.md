@@ -34,10 +34,18 @@
 *   Typescript
 *   React Native (Expo).
 *   SwiftUI (learning)
-*   **Backend & Integration**:
+
+*   **Backend & Cloud**:
 *   Supabase
 *   Firebase
 *   REST/GraphQL APIs.
+
+*   **Tools**:
+*   Android Studio
+*   Xcode
+*   EAS
+*   Azure DevOps
+
 
 ###  🌱 Currently Learning
 * Native iOS Development with Swift & SwiftUI
