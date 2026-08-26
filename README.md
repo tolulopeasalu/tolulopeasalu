@@ -11,20 +11,16 @@
  - 🔔 Push notifications and background services
  - 🔐 Authentication and REST API integrations
  - 📡 Real-time communication using Supabase Realtime
- - 📱 Modern Android development with Jetpack Compose & Material 3.
   
 - ### 🚀 Currently Working On:
-*   **OyaRiyder & OyaDriver**:
-*   Building production ride-hailing applications using:
+*   **Pandora**:
+*   Health app that identifies the pandemic or infectious disease currently posing the greatest threat in a user's area and delivers timely alerts, prevention tips, and relevant public health guidance
+*   Built using Modern Android Development technologies such as:
 *   Kotlin
 *   Jetpack Compose
 *   Material 3
 *   Coroutines & Flow
 *   MVVM
-*   Supabase
-*   Google Maps
-*   Mapbox
-*   Background location services
    
 ### 🚀 Technical Stack:
 *   **Mobile**:
@@ -33,7 +29,6 @@
 *   Material
 *   Typescript
 *   React Native (Expo).
-*   SwiftUI (learning)
 
 *   **Backend & Cloud**:
 *   Supabase
@@ -45,10 +40,6 @@
 *   Xcode
 *   EAS
 *   Azure DevOps
-
-
-###  🌱 Currently Learning
-* Native iOS Development with Swift & SwiftUI
 
 ### 🤝 Let's Connect  
 * I'm always happy to discuss:
