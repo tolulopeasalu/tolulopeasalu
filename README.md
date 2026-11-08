@@ -3,7 +3,7 @@
 
 
 - Hi there 👋, I'm Tolulope Asalu
--  I'm a Mobile Engineer with over three years of professional experience building production mobile applications using Kotlin, Jetpack Compose, React Native, TypeScript, and Expo.
+-  I'm a Mobile Engineer with over three years of professional experience building production mobile applications using React Native, TypeScript, and Expo.
 -  I've built applications across the mobility and fintech industries, delivering features including:
  - 🚕 Ride-hailing workflows for riders and drivers
  - 📍 Real-time location tracking and live trip updates
@@ -13,27 +13,22 @@
  - 📡 Real-time communication using Supabase Realtime
   
 - ### 🚀 Currently Working On:
-*   **Pandora**:
+*   **PandoraBox**:
 *   Health app that identifies the pandemic or infectious disease currently posing the greatest threat in a user's area and delivers timely alerts, prevention tips, and relevant public health guidance
-*   Built using Modern Android Development technologies such as:
-*   Kotlin
-*   Jetpack Compose
-*   Material 3
-*   Coroutines & Flow
-*   MVVM
+*   Built using Modern technologies such as:
+*   TypeScript
+*   React Native
+*   Expo
    
 ### 🚀 Technical Stack:
 *   **Mobile**:
-*   Kotlin
-*   Jetpack Compose
-*   Material
 *   Typescript
-*   React Native (Expo).
+*   React Native (Expo)
 
 *   **Backend & Cloud**:
 *   Supabase
 *   Firebase
-*   REST/GraphQL APIs.
+*   REST/GraphQL APIs
 
 *   **Tools**:
 *   Android Studio
@@ -43,7 +38,6 @@
 
 ### 🤝 Let's Connect  
 * I'm always happy to discuss:
-* Android Development
 * React Native
 * Ride-hailing & Mobility Platforms
 * Real-time Systems
